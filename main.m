@@ -3,7 +3,7 @@
 % Contact:
 % xubingbingdut@foxmail.com, bingbing.xu@ikm.uni-hannover.de
 % Institute of Continuum Mechanics, Leibniz Universität Hannover
-% This work mainly from Yue Yu's previous work https://github.com/Terenceyuyue/mVEM
+% This work is mainly from Yue Yu's previous work https://github.com/Terenceyuyue/mVEM
 
 
 clear;
